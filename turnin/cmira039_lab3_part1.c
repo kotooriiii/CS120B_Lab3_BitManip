@@ -1,5 +1,5 @@
 /*	Author: Carlos Miranda cmira039@ucr.edu
- *  Partner(s) Name: 
+ *  Partner(s) Name: n/a
  *	Lab Section: 23
  *	Assignment: Lab #3  Exercise #1
  *	Exercise Description: [optional - include for your own benefit]
