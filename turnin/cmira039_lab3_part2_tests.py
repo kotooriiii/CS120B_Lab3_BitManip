@@ -8,7 +8,7 @@ tests = [ {'description': 'First test. Testing example 1',
     },
     {'description': 'Third test. Testing example 3',
     'steps': [ {'inputs': [('PINA',0xFF)], 'iterations': 5 } ],
-    'expected': [('PORTC',0x00)],
+    'expected': [('PORTC',0x3F)],
     },
     ]
 #watch = ['PORTB']
